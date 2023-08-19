@@ -18,7 +18,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - ⚡ In my free time, I challenge myself with coding problems on LeetCode and read tech articles.
 
-- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]( )
+- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-gomez-vinusion)
 
 ---
 
