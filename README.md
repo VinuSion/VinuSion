@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
-- 🔭 I’m currently aspiring to become a Full-Stack Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m currently working towards becoming a Full-Stack Engineer and contributing to building web applications.
 
 - 🌱 Exploring Technical Content Writing.
 
