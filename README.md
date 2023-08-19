@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## 🤵 About Me :
+## 👨‍💻 About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
 - 🔭 I’m currently aspiring to become a Full-Stack Engineer and contributing to frontend and backend for building web applications.
@@ -18,7 +18,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - ⚡ In my free time, I challenge myself with coding problems on LeetCode and read tech articles.
 
-- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VinuSion-blue?style=flat&logo=Linkedin&logoColor=white)]( )
+- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]( )
 
 ---
 
