@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br/>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-gomez-vs) <br/>
   <img src="https://komarev.com/ghpvc/?username=VinuSion&style=flat-square&color=blue" alt=""/>
   <h1>Sup guys 👋, It's me William G</h1>
 </div>
