@@ -14,7 +14,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🔭 I’m currently working towards becoming a Full-Stack Engineer and contributing to building web applications.
 
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring academic research whilst learning something new every day.
 
 - ⚡ In my free time, I challenge myself with coding problems on LeetCode and read tech articles.
 
